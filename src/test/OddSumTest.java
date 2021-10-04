@@ -25,4 +25,5 @@ public class OddSumTest {
         Assert.assertEquals(-1, OddSum.run(in, true));
     }
 
+
 }
